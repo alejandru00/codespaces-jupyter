@@ -1,6 +1,7 @@
 ipywidgets==7.7.1
 matplotlib
 numpy
+colorama
 pandas
 torch
 torchvision==0.13.1
